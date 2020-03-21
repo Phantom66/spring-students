@@ -1,0 +1,5 @@
+com/micro/api/students/service/StudentRepository.class
+com/micro/api/students/controller/StudentsController.class
+com/micro/api/SpringStudentsApplication.class
+com/micro/api/students/service/StudentService.class
+com/micro/api/model/Student.class
